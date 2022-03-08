@@ -8,11 +8,10 @@
 
 ### Connect with me:
 
-[![website](./img/twitch-light.svg)](https://www.twitch.tv/seniorsimo#gh-light-mode-only)
-[![website](./img/twitch-dark.svg)](https://www.twitch.tv/seniorsimo#gh-dark-mode-only)
+[<img align="left" alt="Twitch" width="26px" src="./img/twitch.svg" />](https://www.twitch.tv/seniorsimo)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-dark-mode-only)
+[![](./img/linkedin-light.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-light-mode-only)
+[![](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -36,11 +35,13 @@
 
 <!-- TWITCH:START -->
 <!-- TWITCH:END -->
+*powered by [blog-post-workflow][blog-post-workflow]*
 
 ### Recent GitHub Activity
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniorsimo&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seniorsimo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [twitch]: https://www.twitch.tv/seniorsimo
 [linkedin]: https://www.linkedin.com/in/simone-picco-526661174
+[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
