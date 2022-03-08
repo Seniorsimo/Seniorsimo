@@ -8,8 +8,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitch" width="26px" src="./img/twitch.svg" />](https://www.twitch.tv/seniorsimo)
-&nbsp;&nbsp;
 [![](./img/linkedin-light.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-light-mode-only)
 [![](./img/linkedin-dark.svg)](https://www.linkedin.com/in/simone-picco-526661174#gh-dark-mode-only)
 
@@ -26,16 +24,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<br />
-<br />
-
 ---
-
-### 📺 Latest Twitch Videos
-
-<!-- TWITCH:START -->
-<!-- TWITCH:END -->
-*powered by [blog-post-workflow][blog-post-workflow]*
 
 ### Recent GitHub Activity
 
@@ -44,4 +33,3 @@
 
 [twitch]: https://www.twitch.tv/seniorsimo
 [linkedin]: https://www.linkedin.com/in/simone-picco-526661174
-[blog-post-workflow]: https://github.com/gautamkrishnar/blog-post-workflow
